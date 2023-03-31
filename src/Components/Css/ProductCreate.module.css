@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+.ProductInput {
+    margin-bottom:80px;
+}
+
+.ProductInput label,
+.ProductInput input,
+.ProductInput button {
+    display:block;
+    width:100%;
+}
+
+.ProductInput label {
+    font-size:16px;
+    font-weight:bold;
+    padding-bottom:5px;
+}
+
+.ProductInput input {
+    box-sizing: border-box;
+    line-height: 50px;
+    font-size:16px;
+    padding:0 16px;
+    margin-bottom:20px;
+    border:1px solid #ccc;
+}
+
+.ProductInput input::-webkit-input-placeholder {
+    font-family: 'Montserrat', sans-serif;
+    color:#ccc;
+}
+
+.ProductInput dl {
+    margin-bottom: 40px;
+}
+
+.ProductInput > button {
+    width:160px;
+    margin:0 auto;
+    line-height:50px;
+    border:none;
+    background:#222;
+    color:#fff;
+    font-size:16px;
+    font-family:inherit;
+}
