@@ -2,6 +2,7 @@
 
 .item {
     display:flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items:flex-start;
     padding:40px 10px 40px 0;
@@ -34,6 +35,16 @@
 
 .item > div span {
     line-height:18px;
+}
+
+.item > div > button {
+    font-family: inherit;
+    background:none;
+    border:none;
+    padding:0;
+    margin-top:20px;
+    text-decoration: underline;
+    font-weight: bold;
 }
 
 .close {

@@ -1,0 +1,39 @@
+{
+    "Beer":[
+        {
+            "id":"p01",
+            "imgName":"gose_to_hollywood.webp",
+            "productName":"Gose To Hollywood 2.0",
+            "price":"30,00 DKK",
+            "desc":"Salty, sour, light gose brewed with the best fruits California can offer. Best consumed on warm summer days or on the red carpet."
+        },
+        {
+            "id":"p02",
+            "imgName":"dangerously_close_to_stupid.webp",
+            "productName":"Dangerously Close To Stupid 2.0",
+            "price":"50,00 DKK",
+            "desc":"It would be dangerously close to stupid not to brew another batch of Dangerously Close To Stupid."
+        },
+        {
+            "id":"p03",
+            "imgName":"tool_city_the_beer.webp",
+            "productName":"To Øl City - The Beer",
+            "price":"52,00 DKK",
+            "desc":"This recipe was developed with the help of our fans. They chose the grist, the ABV, the hops (Citra, Idaho 7, and mosaic), and the bitterness, resulting in this beautiful IPA!"
+        },
+        {
+            "id":"p04",
+            "imgName":"12th_anniversary.webp",
+            "productName":"12th Anniversary",
+            "price":"72,00 DKK",
+            "desc":"This luscious imperial stout contains the number 12 in at least 12 places. (12 malts, abv 12,12, 12kg roibos tea, etc..) it has delicious flavours to give it interesting floral notes - roibos tea, tonka beans, vanilla beans, plus cacao nibs and coffee."
+        },
+        {
+            "id":"p05",
+            "imgName":"hop-to-mist.webp",
+            "productName":"Hop-To-Mist",
+            "price":"45,00 DKK",
+            "desc":"We're all about trying new things, and this beer is no exception. A 'misty' IPA brewed with a unique combination of Pacifica, Waiti, Loral, and Centennial for beautifully floral and citrus notes."
+        }
+    ]
+}
